@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179265223339",
+    "project_id": "tahu-ff708",
+    "storage_bucket": "tahu-ff708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179265223339:android:e3c1bc14f7bfe8557115ee",
+        "android_client_info": {
+          "package_name": "com.example.tahu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8IcHINKXrHjBrFpFaXSaqn4HxmSB2i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

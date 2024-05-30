@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaHu</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="tasks">Tasks</string>
+    <string name="projects">Projects</string>
+    <string name="home">Home</string>
+    <string name="notify">Notify</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="pass">Password</string>
+    <string name="fullname">Full Name</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_redirect">Already have an account? Login</string>
+    <string name="signup_redirect">Don\'t have an account? Sign up</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    />
+</resources>
